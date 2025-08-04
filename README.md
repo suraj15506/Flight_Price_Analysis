@@ -8,18 +8,31 @@ A comprehensive data analytics project that explores flight pricing trends using
 ## 📁 Project Structure
 
 Airline-Price-Analysis/
+
 ├── data/
+
 │ └── flight_price.csv
+
 ├── notebooks/
+
 │ └── 1_data_cleaning_analysis.ipynb
+
 ├── sql/
+
 │ ├── 1_data_cleaning.sql
+
 │ ├── 2_kpi_queries.sql
+
 │ ├── 3_insight_queries.sql
+
 │ └── 6_reporting_queries.sql
+
 ├── powerbi/
+
 │ └── airline_price_analysis.pbix
+
 ├── README.md
+
 └── .gitignore
 
 
