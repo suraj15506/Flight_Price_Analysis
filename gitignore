@@ -1,0 +1,45 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+ENV/
+*.log
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix~   # backup files
+*.pbit~
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Data Files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+
+# PDFs
+*.pdf
+
+# Output
+outputs/
