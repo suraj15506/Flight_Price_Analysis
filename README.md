@@ -10,9 +10,7 @@ A comprehensive data analytics project that explores flight pricing trends using
 Airline-Price-Analysis/
 
 ├── data/
-
 │ └── flight_price.csv
-
 ├── notebooks/
 
 │ └── 1_data_cleaning_analysis.ipynb
